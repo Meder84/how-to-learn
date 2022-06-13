@@ -7,7 +7,7 @@
 ## Сайт про быстробучаемости.
 # Научиться учиться.
 
-* [Ссылка на проект](https://github.com/Meder84/how-to-learn/index.html)
+* [Ссылка на проект](https://meder84.github.io/how-to-learn/)
 
 * [Информационная анимация сайта](https://vk.com/doc94115747_614235169?hash=RBWSCWp1hBDvUu4oDPLKbqn2eTZtyx14zOa2mCHPSED&dl=qGxiAfGIJnqrZzBPsuFvaVZ1DzwnSnzqpiywjjwVOVo)
 
