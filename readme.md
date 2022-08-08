@@ -9,7 +9,7 @@
 
 * [Ссылка на проект](https://meder84.github.io/how-to-learn/)
 
-* [Информационная анимация сайта](https://vk.com/doc94115747_614235169?hash=RBWSCWp1hBDvUu4oDPLKbqn2eTZtyx14zOa2mCHPSED&dl=qGxiAfGIJnqrZzBPsuFvaVZ1DzwnSnzqpiywjjwVOVo)
+* [Информационная анимация сайта](https://github.com/Meder84/Meder84/blob/main/gif/how-to-learn.gif)
 
 ## Какие современные и эффективные подходы к обучению есть.
 ### Главные проблемы в обучении.
