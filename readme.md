@@ -1,6 +1,6 @@
 # Проект: Научиться учиться / How-to-learn
 * [Ссылка на проект](https://meder84.github.io/how-to-learn/)
-* [Анимированная инфографика сайта](https://github.com/Meder84/Meder84/blob/main/gif/how-to-learn.gif)
+* [Анимированная инфографика сайта](https://github.com/Meder84/Meder84/blob/main/gif/howToLearn1024.gif)
 
 ### Обзор
 * Проект, Научиться учиться / How-to-learn. Это, сайт про быстрообучаемости.
